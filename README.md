@@ -83,8 +83,4 @@ Road-Accident-Dashboard/
 
 ---
 
-## 👨‍💻 About Me
-I am an aspiring Data Analyst currently building real-world projects using Excel, SQL, Python, and Power BI. My goal is to become a remote Data Analyst working with international companies.
-
-
 ## ⭐ If you found this project useful, consider giving it a Star!
