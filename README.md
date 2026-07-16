@@ -65,11 +65,8 @@ The dataset contains road accident records with information such as:
 ---
 
 ## 📸 Dashboard Preview
-(Add a screenshot of your dashboard here.)
 
-Example:
-
-![Dashboard Screenshot](dashboard.png)
+<img width="1366" height="768" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/031bf0e4-8f26-4d79-a507-c5b92ff91632" />
 
 ---
 
